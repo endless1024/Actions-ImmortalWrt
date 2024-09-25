@@ -17,7 +17,7 @@ on:
         description: 'ImmortalWrt 仓库的分支 (Branch of ImmortalWrt repo)'
         type: string
         required: true
-        default: 'rk3588-cyber3588-aib'
+        default: 'rockchip'
       multithreading:
         description: '开启多线程编译 (Enable multithreading build)'
         type: boolean
